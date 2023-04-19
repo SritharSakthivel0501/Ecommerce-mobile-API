@@ -1,0 +1,38 @@
+
+.main {
+    display: flex;
+    margin-top: 137px;
+    margin-left: 197px;
+    height: 314px;
+    width: 839px;
+    border-radius: 20px;
+}
+img {
+    margin-top: 57px;
+    margin-left: 20px;
+    height: 200px;
+    width: 300px;
+    border-radius: 10px;
+}
+div {
+    margin-left: 45px;
+}
+span.spans {
+    visibility: hidden;
+    margin-left: 548px;
+}
+.mineimg {
+    height: 88px;
+    width: 100px;
+    margin-left: 73px;
+}
+.cordimg{
+    /* opacity: 0.5; */
+    margin-left: 30px;
+}
+.cordimg {
+    margin-left: 207px;
+}
+/* .cordimg:hover{
+    opacity: 1;
+} */

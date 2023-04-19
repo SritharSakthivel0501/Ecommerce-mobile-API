@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+}
+.divs {
+    height: 254px;
+    text-align: center;
+    border-radius: 20px;
+    width: 350px;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+    margin: 34px;
+}
+.divs:hover{
+    background-color: rgb(209, 209, 209);
+}
+img {
+    height: 205px;
+    width: 212px;
+}
+img:hover{
+    opacity: 50%;
+}
+input.int {
+    margin-left: 448px;
+    padding: 10px 73px;
+    margin-top: 23px;
+    border-radius: 20px;
+}
